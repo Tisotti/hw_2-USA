@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+
+    font-size: 20px;
+}
+
+.titel {
+    text-align: center;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    font-size: 30px;
+}
+
+.description-one {
+     margin-bottom: 20px;
+}
+
+.description-list {
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+
+.description-two {
+    margin-bottom: 20px;
+}
+
+.description-three {
+    margin-bottom: 40px;
+}
+
+.description-four {
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+.photo-one {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.subtitel {
+    text-align: center;
+
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+    font-size: 25px;
+}
+
+.cities-list {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.variety-text {
+    margin-bottom: 20px;
+}
+
+.photo-two {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 850px;
+}
+
+.photo-three {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    
+}
